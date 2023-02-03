@@ -1,0 +1,12 @@
+If you create a branch, you master file will get uneffected. Once you are done working with 
+your project you can merge it to main account
+
+If you are working with some additional feature 
+and you dont want to touch the working project, you can create a branch
+created branch will have all the files created in the main
+you can also create new files.
+once you are done with your task if everything is working fine in your branch, add it to staging
+then commit. once you commit these files all the files created in the branch only remains in it
+
+if you want to merge it to the master branch make sure everything is commited
+ls

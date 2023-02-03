@@ -1,1 +1,9 @@
+<<<<<<< HEAD>>>>>>>>>>>
 Hi Hellooo... how are you line 1
+
+making changes in the additional branch
+
+>>>>>>> additional_feature<<<<<<<<<
+
+
+Making some changes and adding this line
